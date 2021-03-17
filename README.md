@@ -1,7 +1,7 @@
 # Hi there 👋 I’m Raphaël Huiban
 - 👀 I’m interested in web development and video games
 - 🌱 I’m currently learning typescript and next.js
-- 📫 How to reach me raphael.h.l.c@gmail.com
+
 
 ## ✏️ My Works: 🏆
 - [Moumouche in a place](https://moumouche-in-a-plane.vercel.app) a little game i developed mostly in native javascript using the html5 canvas element
@@ -17,3 +17,5 @@
 ![symfony](https://github.com/Roxxouille/image-profile/blob/main/symfony.svg)
 ![github](https://github.com/Roxxouille/image-profile/blob/main/github.svg)
 ## 📫 Get in touch: 💬
+- 📫 raphael.h.l.c@gmail.com
+- https://www.linkedin.com/in/raphael-huiban/
