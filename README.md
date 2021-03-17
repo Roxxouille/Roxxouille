@@ -1,13 +1,11 @@
 # Hi there 👋 I’m Raphaël Huiban
 - 👀 I’m interested in web development and video games
 - 🌱 I’m currently learning typescript and next.js
-
-
-## ✏️ My Works: 🏆
+## ✏️ My Works:
 - [Moumouche in a place](https://moumouche-in-a-plane.vercel.app) a little game i developed mostly in native javascript using the html5 canvas element
 - [League of legends app](https://league-of-legends-app.vercel.app/) a little app where you can look all the champion in league of legends using next.js and tailwindcss
 
-## 🏆 Languages and Tools: 🤖
+## 🤖 Languages and Tools:
 ![html5](https://github.com/Roxxouille/image-profile/blob/main/html.svg)
 ![css](https://github.com/Roxxouille/image-profile/blob/main/css.svg)
 ![js](https://github.com/Roxxouille/image-profile/blob/main/js.svg)
@@ -16,6 +14,6 @@
 ![react](https://github.com/Roxxouille/image-profile/blob/main/react.svg)
 ![symfony](https://github.com/Roxxouille/image-profile/blob/main/symfony.svg)
 ![github](https://github.com/Roxxouille/image-profile/blob/main/github.svg)
-## 📫 Get in touch: 💬
-- 📫 raphael.h.l.c@gmail.com
+## 📫 Get in touch:
+- raphael.h.l.c@gmail.com
 - https://www.linkedin.com/in/raphael-huiban/
