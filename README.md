@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning typescript and next.js
 ## ✏️ My Works:
 - [Moumouche in a place](https://moumouche-in-a-plane.vercel.app) a little game i developed mostly in native javascript using the html5 canvas element
-- [League of legends app](https://league-of-legends-app.vercel.app/) a little app where you can look all the champion in league of legends using next.js and tailwindcss
+- [League of legends app](https://league-of-legends-app.vercel.app/) a app where you can look all the champion in league of legends using next.js and tailwindcss
 
 ## 🤖 Languages and Tools:
 ![html5](https://github.com/Roxxouille/image-profile/blob/main/html.svg)
